@@ -14,7 +14,7 @@
 <h2 align="center">Desktop</h2>
 <br>
 <div align="center">
-<img alt="Layout-for-Desktop-image" src="https://github.com/guiLima-git/CSS/blob/main/Responsividade-Congratulations/img/Desktop.png?raw=true" align="center">
+<img alt="Layout-for-Desktop-image" src="https://github.com/guiLima-git/Responsividade-Congratulations/blob/main/img/Desktop.png?raw=true" align="center">
 </div>
 
 ---
@@ -22,5 +22,5 @@
 <h2 align="center">Mobile</h2>
 <br>
 <div align="center">
-<img alt="Layout-for-Mobile-image" src="https://github.com/guiLima-git/CSS/blob/main/Responsividade-Congratulations/img/Mobile.png?raw=true" align="center">
+<img alt="Layout-for-Mobile-image" src="https://github.com/guiLima-git/Responsividade-Congratulations/blob/main/img/Mobile.png?raw=true" align="center">
 </div>
